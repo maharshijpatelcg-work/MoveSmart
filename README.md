@@ -199,6 +199,6 @@ To redefine urban mobility by building a **safe, intelligent, and transparent tr
 ## 📬 Contact
 
 For collaboration, feedback, or partnership opportunities:
-📧 [your-email@example.com](mailto:your-maharshi.j.patel.cg@gmail.com)
+📧 [your-maharshi.j.patel.cg@gmail.com](mailto:your-maharshi.j.patel.cg@gmail.com)
 
 ---
