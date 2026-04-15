@@ -216,7 +216,7 @@ To build a **smart, safe, and transparent mobility ecosystem** that transforms h
 
 ## 📬 Contact
 
-📧 [your-maharshi.j.patel.cg@gmail.com](mailto:your-[maharshi.j.patel.cg@gmail.com](https://mail.google.com/mail/u/0/#inbox))
+📧 [maharshi.j.patel.cg@gmail.com](mailto:your-[maharshi.j.patel.cg@gmail.com](https://mail.google.com/mail/u/0/#inbox))
 
 ---
 
