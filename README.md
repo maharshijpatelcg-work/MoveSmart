@@ -8,7 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=MoveSmart&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Intelligent%20Urban%20Mobility%20Platform&descAlignY=55&descSize=18" />
 </p>
 
-<h1 align="center">🚀 MoveSmart</h1>
 <p align="center"><b>Smart • Safe • Scalable Urban Mobility</b></p>
 
 <!-- <p align="center">
